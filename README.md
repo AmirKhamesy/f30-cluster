@@ -6,6 +6,10 @@ Speed, RPM, gear, fuel, blinkers, headlights and backlight all work.
 
 Only tested with Assetto Corsa.
 
+## Demo
+
+https://github.com/user-attachments/assets/4ea559b4-0181-4aa8-b294-78ec7f7430af
+
 ## What you need
 
 - BMW F30 instrument cluster (tested with a 6WA)
